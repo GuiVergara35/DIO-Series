@@ -1,0 +1,16 @@
+E:\DIO\projLista\bin\Debug\net5.0\projLista.exe
+E:\DIO\projLista\bin\Debug\net5.0\projLista.deps.json
+E:\DIO\projLista\bin\Debug\net5.0\projLista.runtimeconfig.json
+E:\DIO\projLista\bin\Debug\net5.0\projLista.runtimeconfig.dev.json
+E:\DIO\projLista\bin\Debug\net5.0\projLista.dll
+E:\DIO\projLista\bin\Debug\net5.0\ref\projLista.dll
+E:\DIO\projLista\bin\Debug\net5.0\projLista.pdb
+E:\DIO\projLista\obj\Debug\net5.0\projLista.csprojAssemblyReference.cache
+E:\DIO\projLista\obj\Debug\net5.0\projLista.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIO\projLista\obj\Debug\net5.0\projLista.AssemblyInfoInputs.cache
+E:\DIO\projLista\obj\Debug\net5.0\projLista.AssemblyInfo.cs
+E:\DIO\projLista\obj\Debug\net5.0\projLista.csproj.CoreCompileInputs.cache
+E:\DIO\projLista\obj\Debug\net5.0\projLista.dll
+E:\DIO\projLista\obj\Debug\net5.0\ref\projLista.dll
+E:\DIO\projLista\obj\Debug\net5.0\projLista.pdb
+E:\DIO\projLista\obj\Debug\net5.0\projLista.genruntimeconfig.cache
